@@ -5,7 +5,7 @@ OpenAI 应用 ChatGPT
 ## 安装
 
 ```shell
-$ composer require cblink/chatgpt -vvv
+$ composer require cblink/openai -vvv
 ```
 
 ## 使用
